@@ -1,0 +1,16 @@
+[
+    {
+        "ID": "STD001",
+        "name": "menna",
+        "grade": "2 s",
+        "subject": "math",
+        "mark": 90
+    },
+    {
+        "ID": "STD002",
+        "name": "abdallah",
+        "grade": "2 s",
+        "subject": "math",
+        "mark": 51
+    }
+]
